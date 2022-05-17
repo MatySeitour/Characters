@@ -1,0 +1,15 @@
+{
+  "name": "naruto",
+  "version": "1.0.0",
+  "description": "this is a single page about some naruto characters",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Characters"
+  },
+  "author": "Matias Seitour",
+  "license": "MIT"
+}
